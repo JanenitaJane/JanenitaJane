@@ -17,7 +17,7 @@
 ---
 
 ## 📂 Featured Projects  
-- **[Power BI Portfolio](https://github.com/JanenitaJane/PowerBI_Portfolio)** → Dashboards for sales, profit/loss, Google Analytics, and healthcare data  
+- **[Power BI Portfolio](https://github.com/JanenitaJane/PowerBI_Portfolio)** → 
 - **Data Science Certificate Projects** → Data modeling, visualization, and applied analytics  
 - **Process Improvement Work** → Using Six Sigma and project management to optimize workflows  
 
@@ -33,5 +33,5 @@
 
 ## 📫 Connect with Me  
 - ✉️ [janenita.janeamnuayphon@gmail.com](mailto:janenita.janeamnuayphon@gmail.com)  
-- 💼 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/janenita-janeamnuayphon/))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/janenita-janeamnuayphon/)  
 - 📊 [Portfolio Repository](https://github.com/JanenitaJane/PowerBI_Portfolio)  
