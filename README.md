@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Janenita Janeamnuayphon  
 
 🎓 Master’s in Quality Management & Analytics  | Data Science Certificate
+
 📊 Data Analyst | 📈 Business Insights | 🌍 Creative Problem Solver  
 
 ---
