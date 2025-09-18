@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Janenita Janeamnuayphon  
 
-🎓 Master’s in Quality Management & Analytics  
+🎓 Master’s in Quality Management & Analytics  | Data Science Certificate
 📊 Data Analyst | 📈 Business Insights | 🌍 Creative Problem Solver  
 
 ---
@@ -26,11 +26,11 @@
 - 💡 I enjoy turning messy data into clear insights that help decision-makers  
 - 📈 Experienced in quality management, analytics, and project leadership  
 - 🌍 International background: studied in the U.S., originally from Thailand  
-- 🐾 Animal lover (cats & dogs) and passionate about creative design  
+- 🐾 Animal lover and passionate about creative design  
 
 ---
 
 ## 📫 Connect with Me  
 - ✉️ [janenita.janeamnuayphon@gmail.com](mailto:janenita.janeamnuayphon@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/)  
+- 💼 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/janenita-janeamnuayphon/))  
 - 📊 [Portfolio Repository](https://github.com/JanenitaJane/PowerBI_Portfolio)  
