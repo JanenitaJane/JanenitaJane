@@ -18,12 +18,14 @@
 
 ---
 
-## 📂 Featured Projects  
-- **[Power BI Portfolio](https://github.com/JanenitaJane/PowerBI_Portfolio)** → 
-- **Data Science Certificate Projects** → Data modeling, visualization, and applied analytics  
-- **Process Improvement Work** → Using Six Sigma and project management to optimize workflows
-- **[SQL Analytics](https://github.com/JanenitaJane/da-sql-sales-analysis)** 
-- **SQL Sales Analysis** – Customer, product, and region revenue insights  
+## 📁 Featured Projects
+
+- [**Power BI Portfolio**](https://github.com/JanenitaJane/PowerBI_Portfolio) → Interactive sales dashboards and KPIs tracking  
+- [**Data Science Certificate Projects**](https://github.com/JanenitaJane/DataScience_Certificate) → Data modeling, visualization, and applied analytics  
+- [**Process Improvement Work**](https://github.com/JanenitaJane/quality-analytics-lss) → Using Six Sigma and project management to optimize workflows  
+- [**SQL Analytics**](https://github.com/JanenitaJane/da-sql-case-study) → Query-based analysis for customers and countries revenue  
+- [**SQL Sales Analysis**](https://github.com/JanenitaJane/da-sql-sales-analysis) → Customer, product, and region revenue insights
+
 
 ---
 
