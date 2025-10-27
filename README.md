@@ -6,20 +6,24 @@
 
 ---
 
-## 🛠 Skills & Tools  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=Power%20BI&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+## 🛠 Skills & Tools
+
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com)
+[![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.w3schools.com/sql/)
+[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/microsoft-365/excel)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JanenitaJane)
+
 
 ---
 
 ## 📂 Featured Projects  
 - **[Power BI Portfolio](https://github.com/JanenitaJane/PowerBI_Portfolio)** → 
 - **Data Science Certificate Projects** → Data modeling, visualization, and applied analytics  
-- **Process Improvement Work** → Using Six Sigma and project management to optimize workflows  
+- **Process Improvement Work** → Using Six Sigma and project management to optimize workflows
+- **[SQL Analytics](https://github.com/JanenitaJane/da-sql-sales-analysis)** 
+- **SQL Sales Analysis** – Customer, product, and region revenue insights  
 
 ---
 
